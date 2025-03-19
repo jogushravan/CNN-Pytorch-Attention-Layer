@@ -8,6 +8,8 @@
 
 5️⃣ Send embeddings to an LLM (GPT-4) for detailed insights.
 
+![image](https://github.com/user-attachments/assets/0502dd28-05fc-4b1e-b81d-817dc45efa13)
+
 
 # CNN-Pytorch
 Convolutional Neural Network (CNN) with an attention mechanism (Squeeze-and-Excitation block) to highlight important regions in an image. 
