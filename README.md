@@ -35,3 +35,17 @@ return layers.multiply([input_tensor, se])  # Step 5: Multiply attention scores 
 ✅ Creates a heatmap overlay.
 
 ✅ Outputs regions the CNN focused on.
+
+### Multimodal Learning Pipeline CCN+LLM Embeddings with Fusion Layer.ipynb
+Business Goal
+
+1️⃣ Extract visual features from product images using CNN (EfficientNet-B7).
+
+2️⃣ Extract text embeddings from product descriptions using LLM (e.g., OpenAI GPT, Mistral, or Llama).
+
+3️⃣ Combine both embeddings for rich, context-aware predictions (e.g., shelf visibility, consumer interaction).
+
+4️⃣ Send embeddings to an LLM API to generate detailed insights about a product’s performance.
+End-to-End Multimodal Learning Pipeline with Trainable Fusion Layer
+We will use a trainable fusion model to combine CNN-based image embeddings (EfficientNet-B7) and LLM-based text embeddings (OpenAI GPT, Mistral, or Llama). This will allow context-aware KPI predictions such as shelf visibility, consumer interaction, and buying patterns.
+
