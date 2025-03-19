@@ -1,6 +1,17 @@
-# CNN-Pytorch
+1️⃣ Use YOLO to detect products on the shelf.
 
-Convolutional Neural Network (CNN) with an attention mechanism (Squeeze-and-Excitation block) to highlight important regions in an image. The generated attention heatmap visually shows which parts of the image the model focuses on.
+2️⃣ Use EfficientNet-B7 to extract features from each detected product.
+
+3️⃣ Use Grad-CAM to generate attention maps for key regions.
+
+4️⃣ Combine CNN embeddings with text embeddings for multimodal KPI prediction.
+
+5️⃣ Send embeddings to an LLM (GPT-4) for detailed insights.
+
+
+# CNN-Pytorch
+Convolutional Neural Network (CNN) with an attention mechanism (Squeeze-and-Excitation block) to highlight important regions in an image. 
+The generated attention heatmap visually shows which parts of the image the model focuses on.
 
 ###Attention Layer (Squeeze-and-Excitation Block)
 
