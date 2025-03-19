@@ -15,3 +15,23 @@ se = layers.Dense(filters, activation="sigmoid")(se)  # Step 3: Scale features b
 se = layers.Reshape((1, 1, filters))(se)  # Step 4: Reshape it to match the original feature map shape
 
 return layers.multiply([input_tensor, se])  # Step 5: Multiply attention scores with input features
+
+### Full Grad-CAM Implementation for EfficientNetV2-L in PyTorch.py
+✅ Loads EfficientNetV2-L with ImageNet weights.
+
+✅ Extracts feature maps from the last convolutional layer.
+
+✅ Computes gradients to find the most influential regions.
+
+✅ Generates a heatmap that highlights the "important" parts of the image.
+
+✅ Overlays the attention map on the original image for visualization.
+
+### CNN EfficientNet-B7 Attention layer extraction.py
+✅ Loads EfficientNet_B7.
+
+✅ Extracts attention layers using Grad-CAM.
+
+✅ Creates a heatmap overlay.
+
+✅ Outputs regions the CNN focused on.
