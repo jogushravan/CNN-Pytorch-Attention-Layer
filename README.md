@@ -1,3 +1,6 @@
+### **Grad-CAM: Gradient-weighted Class Activation Mapping**
+![image](https://github.com/user-attachments/assets/c1d00dec-1f9e-4b3b-8bd6-d6b80801447f)
+
 1️⃣ Use YOLO to detect products on the shelf.
 
 2️⃣ Use EfficientNet-B7 to extract features from each detected product.
