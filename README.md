@@ -1,13 +1,13 @@
 Key Goals
   #. Quantitative, Qualitative Articulate --> Better Explainability
   
-  #. Merchandise--> Optimize package design -->  boost sales [Optimize Merchandise strategy] and e-commerce visuals[digital AI platform]
+  #. **Merchandise** --> **Optimize package design** -->  **boost sales** [Optimize Merchandise strategy] and e-commerce visuals[digital AI platform]
   
   #. What consumer driving factor of sales
   
   --> Boost sales across channels
   
-  #. PPS raking score is a key metric holistic view of overall pack performance
+  #. **PPS** ranking score is a key metric ****holistic view** **of overall pack performance
   
   #. Compare against competitors
 
