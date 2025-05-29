@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/10718de1-302b-400c-a536-6d72d804ef02)
+![image](https://github.com/user-attachments/assets/bfc427eb-5957-4837-bcee-f20f524f9da4)
+
+
 Key Goals
   #. Quantitative, Qualitative Articulate --> Better Explainability
   
